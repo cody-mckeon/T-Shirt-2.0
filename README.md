@@ -25,4 +25,8 @@ React, Express, MongoDB JS App
 - use it in product list screen
 
 
+14 Handle Add to Cart Event
+- Handle Add to Car in ProductScreen.js
+- Create CartScreen.js
+
 
