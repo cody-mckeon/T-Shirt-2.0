@@ -13,3 +13,16 @@ React, Express, MongoDB JS App
 13. Add Redux to Product Screen
 - * Fix needed await in product Actions to get the product details
 
+40. Upload Product Image
+- nmp install multer
+- define upload router
+- create uploads folder
+- Handle fronted
+
+41. Delete Product in Admin
+- Create Delete api in backend
+- create delete constants, action, and reducer
+- use it in product list screen
+
+
+
