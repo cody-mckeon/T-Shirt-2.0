@@ -29,4 +29,10 @@ React, Express, MongoDB JS App
 - Handle Add to Car in ProductScreen.js
 - Create CartScreen.js
 
+15 Add to Cart Action
+- Create addToCart constants, actions, and reducers
+- Add Reducer to store.js
+- Use action in CartScreen.js
+- Render CartItems.length
+
 
