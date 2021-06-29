@@ -35,4 +35,13 @@ React, Express, MongoDB JS App
 - Use action in CartScreen.js
 - Render CartItems.length
 
+16. Build Shopping Cart Screen
+ - Create 2 columns for cart Items and cart action
+ - cartItems.length === 0 ? Cart is empty
+ - show item image, name, qty, and price
+ - Proceed to Checkout button
+ - Implement remove from cart action
+
+
+
 
