@@ -47,7 +47,10 @@ React, Express, MongoDB JS App
 - Add reducer to store.js
 - Use action in CartScreen.js
 
-
+24. Create Shipping Screen
+- Create CheckoutSteps.js component
+- Create shipping fields
+- Implement shipping constant, actions, and reducers
 
 
 
