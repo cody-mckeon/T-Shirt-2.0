@@ -52,5 +52,9 @@ React, Express, MongoDB JS App
 - Create shipping fields
 - Implement shipping constant, actions, and reducers
 
+25. Create Payment Screen
+- Create payment fields.
+- Implement shipping constants, actions and reducers.
+
 
 
