@@ -42,6 +42,12 @@ React, Express, MongoDB JS App
  - Proceed to Checkout button
  - Implement remove from cart action
 
+17. Implement Remove from cart
+- Create removeFromCart constants, actions, and reducers
+- Add reducer to store.js
+- Use action in CartScreen.js
+
+
 
 
 
