@@ -56,5 +56,9 @@ React, Express, MongoDB JS App
 - Create payment fields.
 - Implement shipping constants, actions and reducers.
 
+26. Design Placeorder screen
+- design order summary fields
+- design order action
+
 
 
