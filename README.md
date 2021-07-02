@@ -38,6 +38,10 @@ React, Express, MongoDB JS App
 16. Build Shopping Cart Screen
  - Create 2 columns for cart Items and cart action
  - cartItems.length === 0 ? Cart is empty
+
+
+
+
  - show item image, name, qty, and price
  - Proceed to Checkout button
  - Implement remove from cart action
@@ -59,6 +63,12 @@ React, Express, MongoDB JS App
 26. Design Placeorder screen
 - design order summary fields
 - design order action
+
+27. Create Place Order API
+- createOrder api
+- create orderModel
+- create orderRouter
+- create post order Route
 
 
 
