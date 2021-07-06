@@ -70,5 +70,11 @@ React, Express, MongoDB JS App
 - create orderRouter
 - create post order Route
 
+28. Implement PlaceOrder Action
+- Handle place order button click
+- create place order constants, action, and reducer
+
+
+
 
 
