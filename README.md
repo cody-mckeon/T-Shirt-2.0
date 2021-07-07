@@ -82,6 +82,13 @@ React, Express, MongoDB JS App
 - show data like place order screen
 - create order details constant, action, and reducer
 
+30. Add Paypal Button
+- Get Client id from paypal
+- Set it in .env file
+- create route from /api/paypal/clientId
+- create getPaypalClientID in api.js
+- add paypal checkout script in OrderScreen.js
+- show paypal button
 
 
 
