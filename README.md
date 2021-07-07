@@ -91,6 +91,12 @@ React, Express, MongoDB JS App
 - show paypal button
 
 
+31. Implement Order Payment
+- Update order after payment
+- Create payOrer in api.js
+- Create Route for /:id/pay in orderRouter.js
+- ReRender after pay order
+
 
 
 
