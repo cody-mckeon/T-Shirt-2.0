@@ -51,6 +51,17 @@ React, Express, MongoDB JS App
 - Add reducer to store.js
 - Use action in CartScreen.js
 
+18. Create Sample Users In MongoDB
+- npm install mongoose
+- connect to mongodb
+- create config.js
+- npm install dotenv
+- export MONGODB_URL
+- create models/userModel.js
+- create userSchema and userModel
+- create userRoute
+- Seed sample data
+
 24. Create Shipping Screen
 - Create CheckoutSteps.js component
 - Create shipping fields
